@@ -1,5 +1,0 @@
-GET, запрос меню:
-https://640ef1d54ed25579dc40e2a6.mockapi.io/menu
-
-GET, запрос категорий (для запроса нужной категории необходимо указать в качестве query параметра menuId):
-https://640ef1d54ed25579dc40e2a6.mockapi.io/categories
